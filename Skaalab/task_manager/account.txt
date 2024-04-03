@@ -1,0 +1,6 @@
+admin:
+skaalab_test  password : skaalab
+
+users:
+test   password : testtest00
+skaalab password : testtest00
