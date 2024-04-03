@@ -1,4 +1,4 @@
-# django_tast_app
+# django_task_app
 
 
 This is a Django web application designed to manage a simple task list. Users can register, log in, and log out to manage their tasks effectively. The application provides features such as adding, editing, and deleting tasks, along with the ability to filter tasks based on their completion status.
