@@ -1,5 +1,5 @@
 admin:
-skaalab_test  password : skaalab
+skaalab_test  
 
 users:
 test   password : testtest00
