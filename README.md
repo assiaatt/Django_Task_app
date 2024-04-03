@@ -71,7 +71,7 @@ This is a Django web application designed to manage a simple task list. Users ca
 
 3. Apply migrations:
    ```
-   cd task_manager
+   cd django_task_app/skaalab/task_manager
    python manage.py migrate
    ```
 
